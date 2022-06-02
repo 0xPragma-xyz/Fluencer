@@ -10,7 +10,6 @@ build/
 /.VSCodeCounter/
 /types
 /typechain-types
-/tasks/unpause.ts
 /tasks/create-profile.ts
 /tasks/post.ts
 /tasks/follow.ts
